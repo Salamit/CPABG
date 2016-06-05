@@ -35,6 +35,8 @@ main()
 	//Decreases counter to 1
 	printf("Counter is at %d.\n", ctr -= 1);
 
+	return 0; 
+
 
 
 
